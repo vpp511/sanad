@@ -1,0 +1,6 @@
+{
+  "name": "Sanad - سند",
+  "description": "تطبيق سند للإرشاد الأسري وإقران وإدارة أجهزة الأطفال عبر رمز QR السريع",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
